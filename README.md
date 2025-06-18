@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhaargav.B
-- 👀 I’m interested in FrontEnd Designing
-- 🌱 I’m currently learning React JS
+- 👀 I’m interested in FrontEnd Development
+- 🌱 I’m currently dealing with Bugs!
 - 📫 How to reach me
 E-mail : bhaargav04@gmail.com
 Contact No. : 9443033784
